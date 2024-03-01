@@ -1,0 +1,22 @@
+package oOPsPrograms;
+
+public class StaticandPublicMethods {
+
+	static void StaticMethod() {
+		// for static method no need to create object
+		System.out.println("This is an Static Method");
+	}
+	
+	public void PublicMethod() {
+		// for public method need to create an object
+		System.out.println("This is an Public Method");
+	}
+	public static void main(String[] args) {
+		// TODO Auto-generated method stub
+		StaticMethod();
+		StaticandPublicMethods SPM = new StaticandPublicMethods();
+		SPM.PublicMethod();
+
+	}
+
+}
