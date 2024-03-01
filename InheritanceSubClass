@@ -1,0 +1,6 @@
+package oOPsPrograms;
+
+public class InheritanceSubClass extends InheritanceSuperClass {
+
+	String CarCompanyName = "The Car Company Name Is TATA";
+}
