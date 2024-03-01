@@ -1,0 +1,16 @@
+package oOPsPrograms;
+
+public class ClassAttribute {
+
+	int x;
+	String name = "Nuthan";
+	public static void main(String[] args) {
+		// TODO Auto-generated method stub
+		ClassAttribute CA = new ClassAttribute();
+		CA.x=10;
+		System.out.println(CA.x);
+		System.out.println(CA.name);
+
+	}
+
+}
