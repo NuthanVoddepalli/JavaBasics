@@ -1,0 +1,11 @@
+package oOPsPrograms;
+
+public class PolymorphismClass03 extends PolymorphismClass01 {
+	
+	public void Class() {
+		System.out.println("This is from Polymorphism Class 3");
+	}
+	
+	
+
+}
