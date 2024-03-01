@@ -1,0 +1,13 @@
+package oOPsPrograms;
+
+public class PolymorphismClass01 {
+	
+	public void Class(){
+		
+		System.out.println( "This is Polymorphism Class 01");
+		
+	}
+	
+	
+
+}
