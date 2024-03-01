@@ -1,0 +1,6 @@
+package oOPsPrograms;
+
+public class InheritanceSuperClass {
+
+	String CarName= "The TATA Nano Car";
+}
