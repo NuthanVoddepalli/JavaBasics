@@ -1,0 +1,25 @@
+package oOPsPrograms;
+
+public class Constructor {
+	
+	 int x;
+	 int z =1;
+	 int a;
+	
+	public  Constructor(int y) {
+		x = y;
+		
+	}
+
+	public static void main(String[] args) {
+		// TODO Auto-generated method stub
+		Constructor con = new Constructor(9);
+		con.a = 5;
+	    System.out.println(con.x);
+	    System.out.println(con.z);
+	    System.out.println(con.a);
+		
+
+	}
+
+}
