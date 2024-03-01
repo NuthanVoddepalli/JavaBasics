@@ -1,0 +1,20 @@
+package oOPsPrograms;
+
+public class PolymorphismClasswithMainMethod {
+
+	public static void main(String[] args) {
+		// TODO Auto-generated method stub
+		
+		PolymorphismClass01 poly01=new PolymorphismClass01();
+		poly01.Class();
+		PolymorphismClass01 poly02 = new PolymorphismClass02();
+		poly02.Class();
+		PolymorphismClass01 poly03 = new PolymorphismClass03();
+		poly03.Class();
+		
+		
+		
+
+	}
+
+}
