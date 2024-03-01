@@ -1,0 +1,18 @@
+package oOPsPrograms;
+
+public class InheritanceClass {
+
+	public static void main(String[] args) {
+		// TODO Auto-generated method stub
+		
+		InheritanceSubClass inheri = new InheritanceSubClass();
+		// This is from Inheritance SuperClass/Parent Class
+		System.out.println(inheri.CarName);
+		// This is from Inheritance SubClass/Child Class
+		System.out.println(inheri.CarCompanyName);
+		
+		// Multiple classes are Inherited then its a Polymorphism 
+
+	}
+
+}
