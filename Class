@@ -1,0 +1,17 @@
+package oOPsPrograms;
+
+public class Class {
+
+	
+		int a =5;
+		
+	
+	public static void main(String[] args) {
+		// TODO Auto-generated method stub
+
+		Class CP = new Class();
+		System.out.println(CP.a);
+		
+	}
+
+}
